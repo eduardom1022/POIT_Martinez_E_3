@@ -1,0 +1,98 @@
+    1  clear
+    2  cd
+    3  clear
+    4  ./netbeans-8.2-linux.sh 
+    5  adduser joshua02o
+    6  sudo adduser joshua02o
+    7  passwd joshua02o
+    8  su joshua02o
+    9  sudo adduser joshua02o
+   10  sudo passwd joshua02o
+   11  sudo usermod -aG wheel joshua02o
+   12  su joshua02o
+   13  adduser Eduardo
+   14  passwd Eduardo
+   15  gpasswd -a Eduardo wheel
+   16  sudo ls -l
+   17  visudo
+   18  adduser timothyg255
+   19  gpasswd -a timothyg255 wheel
+   20  ssh-keygen
+   21  cd 
+   22  su timothyg255
+   23  cd
+   24  ./netbeans-8.2-linux.sh 
+   25  clear
+   26  alternatives -config java
+   27  alternatives --config java
+   28  clear
+   29  nano /usr/local/netbeans-8.2/etc/netbeans.conf 
+   30  adduser -hp braidend1000
+   31  passwd braidend1000
+   32  adduser -dp braidend1000
+   33  adduser -d  braidend1000
+   34  adduser braidend1000
+   35  passwd braidend1000
+   36  adduser Eduardo
+   37  gpasswd -a Eduardo wheele
+   38  gpasswd -a Eduardo wheel
+   39  visudo Eduardo
+   40  Eduardo ALL=(ALL) ALL
+   41  Eduardo ALL= (ALL) ALL
+   42  echo "My name is Eduardo Martinez 3 and I am $USER"
+   43  ssh-keygen
+   44  ssh-copy-id
+   45  sudo apt install xclip
+   46  sudo apt-get install xclip
+   47  sudo yum install xclip
+   48  xclip -sel clip < ~/.ssh/id-rsa.pub
+   49  xclip -sel clip < ~/.ssh/id_rsa.pub
+   50  mkdir ~/Martinez_E_3
+   51  cd ~/Martinez_E_3
+   52  touch README.md
+   53  git int
+   54  git init
+   55  git add README.md
+   56  git commit -m "first commit"
+   57  remote add origin git@github.com:alexpchin/<reponame>.git
+   58  git remote add origin git@github.com:alexpchin/<reponame>.git
+   59  git push -u origin master
+   60  git remote add origin git@github.com:alexchin/<reponame>.git
+   61  git puch -u origin master
+   62  git push -u origin master
+   63  git remote add origin git@github.com:Eduardo/<reponame>.git
+   64  remote add origin git@github.com:Eduardo/<reponame>.git
+   65  Martinez_Eduardo_3_103118_commands
+   66  touch README.md
+   67  git init
+   68  git add README.md
+   69  git commit -m "first commit"
+   70  git remote add origin git@github.com:alexpchin/<reponame>.git
+   71  echo reponame
+   72  git remote add origin git@github.com:alexpchin/<reponame>.git
+   73  git remote add origin git@github.com:alexpchin/<Martinez_E_3>.git
+   74  git puch -u origin master
+   75  git pucs -u origin master
+   76  git push -u origin master
+   77  git remote add origin git@github.com:alexpchin/<reponame>.git
+   78  git push -u origin master
+   79  history
+   80  echo Martinez_E_3_103118-commands
+   81  echo Martinez_E_3_103118_commands
+   82  scp
+   83  history
+   84  history <Marinez_E_3_103118_commands
+   85  history < Marinez_E_3_103118_commands
+   86  history < Martinez_E_3_103118_commands
+   87  history > Martinez_E_3_103118_commands
+   88  ssh key-gen
+   89  sshkey-gen
+   90  ssh-keygen
+   91  /root/.ssh/id_rsa
+   92  ssh-keygen
+   93  xclip -sel clip < ~/.ssh/id_rsa.pub
+   94  exit
+   95  ls
+   96  scp Martinez_E_3 git@github.com:eduardom1022/POIT_Martinez_E_3.git
+   97  history
+
